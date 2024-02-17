@@ -1,0 +1,33 @@
+/* Add this CSS to adjust the width of the email column */
+/* .email-column {
+    max-width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  } */
+  .bg-biege{
+    background-color:lightblue !important;
+  }
+  .option-column {
+      max-width: 250px; 
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  .table-td{
+      max-width: 250px; 
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    
+    input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  
+  input[type=number] {
+    appearance: textfield;
+  }
